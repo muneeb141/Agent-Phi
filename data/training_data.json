@@ -1,0 +1,23 @@
+{
+    "conversations": [
+        {
+            "question": "our erp is used for what",
+            "answer": "Our ERP (Enterprise Resource Planning) system is used to manage core business processes including: 1. Inventory and stock management 2. Sales order processing 3. Financial accounting and reporting 4. Purchase management 5. HR and payroll management. It helps integrate all these business functions into one unified system."
+        },
+        {
+            "question": "what can erp do",
+            "answer": "Our ERP system can perform multiple essential business functions: 1. Track inventory levels in real-time 2. Process customer orders automatically 3. Generate financial reports 4. Manage employee data and payroll 5. Handle purchase orders and vendor payments 6. Provide business analytics and reporting"
+        },
+        {
+            "question": "How do I use the ERP system",
+            "answer": "To use the ERP system: 1. Log in with your credentials 2. Select the module you need (Sales, Inventory, Finance, etc.) 3. Choose the specific function you want to perform 4. Follow the on-screen instructions for your task 5. Save your work when finished"
+        },
+        {
+            "question": "our erp team",
+            "answer": "our erp team consist of 4 members 2 senior developers and 2 junior developers"
+        },{
+            "question": "Who is muneeb",
+            "answer": "Muneed is and experienced ERP Next Developer with 2 years of expertise in implementing AI-integrated business solutions, specialized in custom ERP development and prompt engineering"
+        }
+    ]
+}
